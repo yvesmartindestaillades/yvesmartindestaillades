@@ -8,4 +8,4 @@
 
 🧬 I'm super interested in biology and I love doing research, so I joined the Herschlag lab at Stanford! At the moment, I'm implementing a data processing pipeline called DREEM - check out the repo!
 
-⏭️ Next step, I want to get into a PhD program merging biology and robotics!
+⏭️ Next step, I want to work on a project merging biology and robotics!
