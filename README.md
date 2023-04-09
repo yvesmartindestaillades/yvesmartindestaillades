@@ -10,7 +10,7 @@
 
 💻 I'm also super interested in data science and AI. I worked on [predicting civil war](https://mlecauchois.github.io/cwonset/) and developed [an app that detect if you have a heart seizure](https://github.com/yvesmartindestaillades/Seizure-Detection-Android-App). 
 
-💡 I like IoTs and I built a meeting-optimizer called [Odeji](https://chi.camp/projects/team-3-2019-2020/). The code for the firmware is [here](https://github.com/yvesmartindestaillades/Odeji-Firmware-Arduino), and it's connected to a [WebApp](https://odeji-6a294.web.app/) whose code is here.
+💡 I like IoTs and I built [a meeting-optimizer called Odeji](https://chi.camp/projects/team-3-2019-2020/). The code for the firmware is [here](https://github.com/yvesmartindestaillades/Odeji-Firmware-Arduino), and it's connected to a [WebApp](https://odeji-6a294.web.app/) whose code is here.
  Just for fun, I'm developing [a connected mirror for health monitoring](https://github.com/yvesmartindestaillades/smartMirrorFitbit). 
 
 Feel free to email me at yves[at]martin.yt, I'm always happy to meet and chat :)
