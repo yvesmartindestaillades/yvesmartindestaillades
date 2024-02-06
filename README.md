@@ -1,6 +1,6 @@
 # Hi, I'm Yves 👋🏻
 
-🎓 I just got my Master's in Robotics from [EPFL, Switzerland](https://www.qschina.cn/universities/ecole-polytechnique-f%C3%A9d%C3%A9rale-de-lausanne/).
+🎓 I graduated 2 years ago from [EPFL, Switzerland](https://www.qschina.cn/universities/ecole-polytechnique-f%C3%A9d%C3%A9rale-de-lausanne/) as a Master's in Robotics.
 
 🧬 I'm super interested in biology and I love doing research, so I joined the Herschlag lab at Stanford! At the moment, I'm implementing [a data processing pipeline called DREEM](https://github.com/rouskinlab/DREEM). I also built [a visualization tool for DREEM](https://github.com/yvesmartindestaillades/dreem-app).
 
