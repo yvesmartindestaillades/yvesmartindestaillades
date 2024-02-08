@@ -2,7 +2,7 @@
 
 🎓 I graduated 2 years ago from [EPFL, Switzerland](https://www.qschina.cn/universities/ecole-polytechnique-f%C3%A9d%C3%A9rale-de-lausanne/) as a Master's in Robotics.
 
-🧬 I'm super interested in biology and I love doing research, so I joined the Herschlag lab at Stanford! At the moment, I'm implementing [a data processing pipeline called DREEM](https://github.com/rouskinlab/DREEM). I also built [a visualization tool for DREEM](https://github.com/yvesmartindestaillades/dreem-app).
+🧬 I'm super interested in biology and I love doing research, so I joined the Herschlag lab at Stanford! My projects include [a data processing pipeline called DREEM](https://github.com/rouskinlab/DREEM). I also built [a visualization tool for DREEM](https://github.com/yvesmartindestaillades/dreem-app).
 
 🤖 I worked on soft robotics for my master's thesis at Harvard Microrobotics Lab. Check out [the publication in IROS 2022](https://ieeexplore.ieee.org/document/9982185) and [its repo](https://github.com/yvesmartindestaillades/State-Estimator-for-Soft-Arm-SESA). 
 
