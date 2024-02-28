@@ -10,6 +10,8 @@
 
 **SEISMOGRAPH**: a visualization webapp compatible with SEISMIC-RNA and shape-mapper. Also available as a python API. [code](https://github.com/rouskinlab/seismic-graph) 
 
+**DMS-CI**: Confidence intervals for the DMS signal (a chemical probing method for RNA structure). [code](https://github.com/rouskinlab/dms_ci)
+
 **RouskinHF**: a wrapper around HuggingFace for data pre-processing, storaging and versioning. [code](https://github.com/rouskinlab/rouskinhf), [paper](https://www.biorxiv.org/content/10.1101/2024.01.24.577093v1.full)
 
 **RNAstructure**: a wrapper in Python around David Mathew's RNAstructure. [code](https://github.com/rouskinlab/rnastructure)
