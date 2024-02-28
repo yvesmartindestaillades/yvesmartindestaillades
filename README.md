@@ -2,7 +2,7 @@
 
 🎓 I'm French, 26 yo, I studied Robotics at [EPFL, Switzerland](https://www.qschina.cn/universities/ecole-polytechnique-f%C3%A9d%C3%A9rale-de-lausanne/). I work on AI for biochemistry at the Herschlag lab at Stanford, more specifically on solving the RNA folding problem. I am interested in generative AI and I did a couple of hackathons for fun. 
 
-## RNA structure
+## RNA structure prediction
 
 **eFold**: eFold model architecture and training. Uses Pytorch, Pytorch Lightning, Vast.ai, W&B and HuggingFace. [code](https://github.com/rouskinlab/efold), [paper](https://www.biorxiv.org/content/10.1101/2024.01.24.577093v1.full)
 
