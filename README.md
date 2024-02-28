@@ -1,17 +1,48 @@
 # Hi, I'm Yves 👋🏻
 
-🎓 I graduated 2 years ago from [EPFL, Switzerland](https://www.qschina.cn/universities/ecole-polytechnique-f%C3%A9d%C3%A9rale-de-lausanne/) as a Master's in Robotics.
+🎓 I'm French, 26 yo, I studied Robotics at [EPFL, Switzerland](https://www.qschina.cn/universities/ecole-polytechnique-f%C3%A9d%C3%A9rale-de-lausanne/). I work on AI for biochemistry at the Herschlag lab at Stanford, more specifically on solving the RNA folding problem. I am interested in generative AI and I did a couple of hackathons for fun. 
 
-🧬 I'm super interested in biology and I love doing research, so I joined the Herschlag lab at Stanford! My projects include [a data processing pipeline called DREEM](https://github.com/rouskinlab/DREEM). I also built [a visualization tool for DREEM](https://github.com/yvesmartindestaillades/dreem-app).
+## RNA structure
 
-🤖 I worked on soft robotics for my master's thesis at Harvard Microrobotics Lab. Check out [the publication in IROS 2022](https://ieeexplore.ieee.org/document/9982185) and [its repo](https://github.com/yvesmartindestaillades/State-Estimator-for-Soft-Arm-SESA). 
+**eFold**: eFold model architecture and training. Uses Pytorch, Pytorch Lightning, Vast.ai, W&B and HuggingFace. [code](https://github.com/rouskinlab/efold), [paper](https://www.biorxiv.org/content/10.1101/2024.01.24.577093v1.full)
 
-🧮 I like control theory and I worked on the control of [drones](https://github.com/yvesmartindestaillades/CrazyFlie-Control) and [legged robots](https://github.com/yvesmartindestaillades/CPG-based-control-for-biped).
+**SEISMIC-RNA**: a data processing tool for DMS-MaPseq. [code](https://github.com/rouskinlab/seismic-rna)
 
-💻 I'm also super interested in data science and AI. I worked on [predicting civil war](https://mlecauchois.github.io/cwonset/) and developed [an app that detect if you have a heart seizure](https://github.com/yvesmartindestaillades/Seizure-Detection-Android-App). 
+**SEISMOGRAPH**: a visualization webapp compatible with SEISMIC-RNA and shape-mapper. Also available as a python API. [code](https://github.com/rouskinlab/seismic-graph) 
 
-💡 I like IoTs and I built [a meeting-optimizer called Odeji](https://chi.camp/projects/team-3-2019-2020/). The code for the firmware is [here](https://github.com/yvesmartindestaillades/Odeji-Firmware-Arduino), and it's connected to a [WebApp](https://odeji-6a294.web.app/) whose code is here.
- Just for fun, I'm developing [a connected mirror for health monitoring](https://github.com/yvesmartindestaillades/smartMirrorFitbit). 
+**RouskinHF**: a wrapper around HuggingFace for data pre-processing, storaging and versioning. [code](https://github.com/rouskinlab/rouskinhf), [paper](https://www.biorxiv.org/content/10.1101/2024.01.24.577093v1.full)
+
+**RNAstructure**: a wrapper in Python around David Mathew's RNAstructure. [code](https://github.com/rouskinlab/rnastructure)
+
+## Robotics
+
+**Soft robots sensing**: a proprioceptive method for soft robotic arms using IMUs. [code](https://github.com/yvesmartindestaillades/State-Estimator-for-Soft-Arm-SESA), [paper](https://ieeexplore.ieee.org/document/9982185) 
+
+**Robogami**: a robot made of flexible hinges and rigid tiles. Paper submitted! [firmware](https://github.com/yvesmartindestaillades/RRL_pouch_motors_control) 
+
+**Crazyfly controller**: a quadcopter navigation project [code](https://github.com/yvesmartindestaillades/CrazyFlie-Control) 
+
+**CPG for bipeds**: a Central-Pattern Generator controller for bipeds. It's a mix of feed-forward and feedback control. [code](https://github.com/yvesmartindestaillades/CPG-based-control-for-biped).
+
+## LLM
+
+**subliminAI**: embed hidden messages into diffusion models by biasing the seed. [code](https://github.com/yvesmartindestaillades/subliminAI)
+
+**cringe.ai**: an halloween multimodel that makes spooky comments about your looks. [code](https://github.com/yvesmartindestaillades/cringe.ai)
+
+## Data science and AI
+
+**Predicting civil war**: use economical, social and military historical data to predict civil war onset. [code](https://mlecauchois.github.io/cwonset/) 
+
+**Seizure-detection app**: An android app to detect seizure using an MLP hosted on Google Compute Engine. [code](https://github.com/yvesmartindestaillades/Seizure-Detection-Android-App). 
+
+## Embedded electronics
+
+**Meeting optimizer**: a system made of an app, a webapp and a device to optimize meeting attendance.  [project](https://chi.camp/projects/team-3-2019-2020/), [firmware](https://github.com/yvesmartindestaillades/Odeji-Firmware-Arduino), [WebApp](https://odeji-6a294.web.app/) 
+
+**InVu**: a connected mirror for health monitoring [code](https://github.com/yvesmartindestaillades/smartMirrorFitbit). 
+
+## Miscellaneous
 
 ☀️ If you're a VSR at Stanford, here's [my survival guide](https://github.com/yvesmartindestaillades/StanfordVSRsurvivalGuide) for you.
 
